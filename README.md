@@ -13,6 +13,6 @@ Just run the script with the folder that contains the files that you want to ren
 
 `./rename-files.rb folder_name`
 
-the script will rename all the files with the format `YYYY-MM-DD HH.MM.SS`, subfolders are ignored.
+the script will rename all the files with the format `YYYY-MM-DD HH.MM.SS`, keeping the same file extension. Subfolders are ignored.
 
 Enjoy your renamed photos, now you can easily browse them by file name in chronological order.
