@@ -1,4 +1,5 @@
-Rename all files in a directory with their mtime.
+**Rename all files in a directory with their mtime.**
+
 
 # The common problem
 When you import photos/videos from your iPhone they are named with the creation date, e.g:
