@@ -1,4 +1,3 @@
-# **rename-files-creation-date**
 Rename all files in a directory with their mtime.
 
 # The common problem
