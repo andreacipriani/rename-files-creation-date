@@ -1,4 +1,4 @@
-**Rename all files in a directory with their mtime.**
+Rename all files in a directory with their mtime.
 
 
 # The common problem
