@@ -2,17 +2,16 @@ Rename all files contained in a directory with their mtime.
 
 
 # The common problem
-When you import photos/videos from your iPhone they are named with the creation date, e.g:
-`2016-11-05 14.23.17`
-But what about when other photos with a different naming convention?
+I like my photos to be named with their creation date, e.g:
+`2016-11-05 14.23.17` so that I can explore them cronologically just by sorting the files in folders by name.
 
 [<img src="https://media.giphy.com/media/26tnnpcYVRNJGlHy0/giphy.gif">]()
 
-# How it works
-Just run the script with the folder that contains the files that you want to rename:
+# Let's rename
+Run the script with the folder that contains the files that you want to rename as an argument:
 
-`./rename-files.rb folder_name`
+`./rename-files.rb $folder_name`
 
 the script will rename all the files with the format `YYYY-MM-DD HH.MM.SS`, keeping the same file extension. Subfolders are ignored.
 
-Enjoy your renamed photos, now you can easily browse them by file name in chronological order.
+Sort the files in the folder by name, and your pictures will be cronologically ordered. Enjoy!
