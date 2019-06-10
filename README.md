@@ -1,14 +1,13 @@
 Rename all files contained in a directory with their mtime.
 
+# The use case
 
-# The common problem
-I like my photos to be named with their creation date, e.g:
-`2016-11-05 14.23.17` so that I can explore them cronologically just by sorting the files in folders by name.
-
-[<img src="https://media.giphy.com/media/26tnnpcYVRNJGlHy0/giphy.gif">]()
+I want to explore my photos cronologically in a floder just by sorting the files by name. That's why I want them to be named with their creation date e.g:
+`2016-11-05 14.23.17` [<img src="https://media.giphy.com/media/26tnnpcYVRNJGlHy0/giphy.gif">]()
 
 # Let's rename
-Run the script with the folder that contains the files that you want to rename as an argument:
+
+Run the script with the folder that contains the files that you want to rename:
 
 `./rename-files.rb $folder_name`
 
