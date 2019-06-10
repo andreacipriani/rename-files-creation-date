@@ -4,6 +4,8 @@ Rename all files contained in a directory with their mtime.
 
 I want to explore my photos cronologically in a floder just by sorting the files by name. That's why I want them to be named with their creation date e.g: `2016-11-05 14.23.17`
 
+But when I export them from my iPhone, they have a pseudo-random name that doesn't respect the cronological order.
+
 <p align="center">
      <img src="https://media.giphy.com/media/26tnnpcYVRNJGlHy0/giphy.gif">
 </p>
