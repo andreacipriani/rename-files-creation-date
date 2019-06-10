@@ -2,8 +2,11 @@ Rename all files contained in a directory with their mtime.
 
 # The use case
 
-I want to explore my photos cronologically in a floder just by sorting the files by name. That's why I want them to be named with their creation date e.g:
-`2016-11-05 14.23.17` [<img src="https://media.giphy.com/media/26tnnpcYVRNJGlHy0/giphy.gif">]()
+I want to explore my photos cronologically in a floder just by sorting the files by name. That's why I want them to be named with their creation date e.g: `2016-11-05 14.23.17`
+
+<p align="center">
+     <img src="https://media.giphy.com/media/26tnnpcYVRNJGlHy0/giphy.gif">
+</p>
 
 # Let's rename
 
